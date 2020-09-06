@@ -1,0 +1,33 @@
+body{
+
+    background-image: url(img/universe.jpg);
+}
+
+main,footer{
+background-color: cornflowerblue;
+background-attachment: fixed;         /*efecto de moviminento*/
+}
+
+
+p{
+    font-size:16px; /*tamaño de la letra o  fuente */
+    font-family: 'Architects Daughter', cursive; /* funte, estilo del texto o  fuente*/
+    color: rgb(233, 231, 231);
+
+
+}
+
+.parrafo{
+
+    font-size:16px; /*tamaño de la letra o  fuente */
+    font-family: 'Architects Daughter', cursive; /* funte, estilo del texto o  fuente*/
+    color: red;
+}
+
+.enfasis{
+
+    font-size:30px; /*tamaño de la letra o  fuente */
+    font-family: 'Architects Daughter', cursive; /* funte, estilo del texto o  fuente*/
+    color:gray;
+}
+}
