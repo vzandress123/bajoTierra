@@ -1,0 +1,40 @@
+.caja1{
+ height: 30px;
+ width: 30px;
+ background-color: yellow;
+display: inline-block;             /* posicionamienot de las cajas en linea o en bloque*/
+}
+.caja2{
+    height: 300px;
+    width: 3000px;
+    background-color:red;
+     display: inline-block;
+    /* margin-left: 150px;          /*margen entre cajas*/
+}
+
+.caja3{
+    height: 300px;
+    width: 300px;
+    background-color:blue;
+   display: inline-block; 
+
+}
+
+.caja4{
+    height: 300px;
+    width: 300px;
+    background-color:green;
+   position: relative; 
+   right: 20px;
+   bottom: 20px;
+
+}
+
+.caja5{
+    height: 300px;
+    width: 300px;
+    background-color: darkmagenta;
+   display: inline-block; 
+
+}
+
